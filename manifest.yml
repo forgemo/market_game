@@ -1,0 +1,15 @@
+---
+applications:
+  - name: market_game
+    memory: 64M
+    disk_quota: 100M
+    health-check-type: port
+    path: deploy
+    buildpacks:
+      - https://github.com/cloudfoundry/binary-buildpack.git
+    command: ./market_game
+    env:
+      ROCKET_ENV: production
+      ROCKET_PORT: 8080
+
+
