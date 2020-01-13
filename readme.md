@@ -17,3 +17,14 @@
     
     test-portfolio: f22f799b-d56e-4f60-91d8-a3b25dae61a4
     test-portfolio: ddf7e30f-3987-436b-acfe-ac4c7b8994de
+    
+   
+ Examples: 
+ 
+https://marketgame.cfapps.io/book
+ 
+https://marketgame.cfapps.io/portfolio/f22f799b-d56e-4f60-91d8-a3b25dae61a4
+
+https://marketgame.cfapps.io/asset
+
+https://marketgame.cfapps.io/asset/3b936534-fc8d-42b8-adfa-58e06023d6cf
